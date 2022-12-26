@@ -1,0 +1,12 @@
+hupper==1.10.3
+PasteDeploy==3.0.1
+plaster==1.1.2
+plaster-pastedeploy==1.0.1
+pygame==2.1.2
+pyramid==2.0
+translationstring==1.4
+venusian==3.0.0
+WebOb==1.8.7
+zope.deprecation==4.4.0
+zope.interface==5.5.2
+
